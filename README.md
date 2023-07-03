@@ -102,8 +102,11 @@ Se crea una nueva actividad llamada "LoginActivity". Se accede al archivo XML de
 Esta actividad permitirá al usuario moverse a diferentes páginas una vez que el registro sea exitoso.
 
 ![image](https://github.com/Mhela4444/SQLITE/assets/133244582/81d00bb0-c966-4281-b60f-53844ce6effb)
+
+
 Diseño de inicio de sesión:
 ![image](https://github.com/Mhela4444/SQLITE/assets/133244582/2545c27e-5b81-48c3-bcc9-d653394dc479)
+
 
 datos almacenados:
 ![image](https://github.com/Mhela4444/SQLITE/assets/133244582/da8b43c4-26e5-4934-a309-51edccd1d99b)
